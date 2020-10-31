@@ -1,0 +1,12 @@
+node_modules
+package-lock.json
+private/apis/ExtraDataBase/ExtraDataBase/users/*
+private/database/user/*
+private/zips/*
+private/uploads/*
+public/video
+public/html
+public/scss
+public/tests
+public/audio
+private/log/*
